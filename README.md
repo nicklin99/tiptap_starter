@@ -1,4 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# 可视化富文本编辑器
+
+tiptap/prosemirror/markdown-it/tiptap extensions
+
+* ✅ markdown / html 2种模式
+* ✅ 图片显示
+* ❌ 插入/上传图片 TODO
+* ❌ 表格 TODO
+
+## Vue 3 + TypeScript + Vite
 
 ![pinia logo](https://pinia.vuejs.org/logo.svg)
 
